@@ -1,0 +1,81 @@
+[90m= [39m[
+    {#5442
+      +"[1mname[22m": "[32matendimentos[39m",
+    },
+    {#5441
+      +"[1mname[22m": "[32mauditorias[39m",
+    },
+    {#5440
+      +"[1mname[22m": "[32mcache[39m",
+    },
+    {#5465
+      +"[1mname[22m": "[32mcache_locks[39m",
+    },
+    {#5434
+      +"[1mname[22m": "[32mfailed_jobs[39m",
+    },
+    {#5464
+      +"[1mname[22m": "[32mgrr_manual_articles[39m",
+    },
+    {#5463
+      +"[1mname[22m": "[32mgrr_manual_sections[39m",
+    },
+    {#5462
+      +"[1mname[22m": "[32mgrr_manuals[39m",
+    },
+    {#5461
+      +"[1mname[22m": "[32mjob_batches[39m",
+    },
+    {#5460
+      +"[1mname[22m": "[32mjobs[39m",
+    },
+    {#5459
+      +"[1mname[22m": "[32mmigrations[39m",
+    },
+    {#5458
+      +"[1mname[22m": "[32mnotifications[39m",
+    },
+    {#5457
+      +"[1mname[22m": "[32mpassword_reset_tokens[39m",
+    },
+    {#5456
+      +"[1mname[22m": "[32mpre_inscricoes[39m",
+    },
+    {#5451
+      +"[1mname[22m": "[32mrelatorio_participantes[39m",
+    },
+    {#5470
+      +"[1mname[22m": "[32mrelatorios[39m",
+    },
+    {#5471
+      +"[1mname[22m": "[32mrh_controle_saidas[39m",
+    },
+    {#5472
+      +"[1mname[22m": "[32mrh_hierarquia_records[39m",
+    },
+    {#5473
+      +"[1mname[22m": "[32mrh_permissions[39m",
+    },
+    {#5474
+      +"[1mname[22m": "[32msessions[39m",
+    },
+    {#5475
+      +"[1mname[22m": "[32msolicitacao_acesso_permissions[39m",
+    },
+    {#5476
+      +"[1mname[22m": "[32msolicitacao_acessos[39m",
+    },
+    {#5477
+      +"[1mname[22m": "[32msqlite_sequence[39m",
+    },
+    {#5478
+      +"[1mname[22m": "[32mticket_messages[39m",
+    },
+    {#5479
+      +"[1mname[22m": "[32mtickets[39m",
+    },
+    {#5480
+      +"[1mname[22m": "[32musers[39m",
+    },
+  ]
+
